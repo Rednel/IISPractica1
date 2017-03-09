@@ -20,6 +20,7 @@ public class GitAux {
     }
     
     public void metodoComunitario(){
+	//Alberto Reyes
         System.out.println("Aqui escribimos todos");
     }
 }
