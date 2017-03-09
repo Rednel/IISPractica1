@@ -11,7 +11,6 @@ package prgitejemplo;
 public class GitAux {
     
     public void metodoAlumno1(){
-        //Ezequiel Rodriguez
         System.out.println("metodo 1");
     }
     
